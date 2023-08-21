@@ -5,33 +5,31 @@ Login Form Implementing the MVVM pattern, WPF, C-Sharp and SQL Server
   <img src="https://github.com/aminul-islam-niloy/ASP.Net-Core-MVC-CRUD/blob/master/README%20PHOTO/Home%20View.jpg"/>
 </a>
 
-<h2>Home View:</h2>
-<a href="" target="_blank">
-  <img src=""/>
-</a>
-
+<br>
 
 <h2>Route View:</h2>
 <a href="" target="_blank">
   <img src="https://github.com/aminul-islam-niloy/ASP.Net-Core-MVC-CRUD/blob/master/README%20PHOTO/Route.jpg"/>
 </a>
+<br>
 
 <h2>Create View:</h2>
 <a href="" target="_blank">
   <img src="https://github.com/aminul-islam-niloy/ASP.Net-Core-MVC-CRUD/blob/master/README%20PHOTO/Create.jpg"/>
 </a>
+<br>
 
 <h2>Details View:</h2>
 <a href="" target="_blank">
   <img src="https://github.com/aminul-islam-niloy/ASP.Net-Core-MVC-CRUD/blob/master/README%20PHOTO/View%20Details.jpg"/>
 </a>
-
+<br>
 
 <h2>Delete View:</h2>
 <a href="" target="_blank">
   <img src="https://github.com/aminul-islam-niloy/ASP.Net-Core-MVC-CRUD/blob/master/README%20PHOTO/delete.jpg"/>
 </a>
-
+<br><br>
 
 <h2>Database View:</h2>
 <a href="" target="_blank">
